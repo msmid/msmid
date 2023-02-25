@@ -1,0 +1,1 @@
+<a href="https://app.daily.dev/msmid"><img src="https://api.daily.dev/devcards/955074f0d20b422bbe619e1ef3c68908.png?r=929" width="400" alt="Martin Šmíd's Dev Card"/></a>
